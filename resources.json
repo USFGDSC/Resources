@@ -1,0 +1,19 @@
+{
+  "resources": [
+    {
+      "url": "https://example.com/resource1",
+      "category": "Category1",
+      "display_name": "Resource 1"
+    },
+    {
+      "url": "https://example.com/resource2",
+      "category": "Category2",
+      "display_name": "Resource 2"
+    },
+    {
+      "url": "https://example.com/resource3",
+      "category": "Category1",
+      "display_name": "Resource 3"
+    }
+  ]
+}
