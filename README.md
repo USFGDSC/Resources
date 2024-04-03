@@ -20,13 +20,13 @@ To contribute to this list, please follow these guidelines:
 
    | Category           |
    |--------------------|
-   | machine learning   |
-   | web dev            |
-   | mobile app dev     |
-   | design             |
+   | Machine Learning   |
+   | Web Dev            |
+   | Mobile App Dev     |
+   | Design             |
    | Tutorials          |
-   | books              |
-   | scripting          |
+   | Books              |
+   | Scripting          |
 
 4. Ensure your resource is relevant and useful for students.
 5. Commit your changes and push to your fork.
