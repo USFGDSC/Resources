@@ -54,6 +54,11 @@
       "url": "https://www.w3schools.com/",
       "category": "Reference",
       "display_name": "W3Schools"
+    },
+    {
+      "url": "https://www.w4schools.com/",
+      "category": "Reference",
+      "display_name": "W4Schools"
     }
   ]
 }
