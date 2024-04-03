@@ -1,19 +1,59 @@
 {
   "resources": [
     {
-      "url": "https://example.com/resource1",
-      "category": "Category1",
-      "display_name": "Resource 1"
+      "url": "https://www.freecodecamp.org/",
+      "category": "Tutorials",
+      "display_name": "FreeCodeCamp"
     },
     {
-      "url": "https://example.com/resource2",
-      "category": "Category2",
-      "display_name": "Resource 2"
+      "url": "https://scrimba.com/",
+      "category": "Tutorials",
+      "display_name": "Scrimba"
     },
     {
-      "url": "https://example.com/resource3",
-      "category": "Category1",
-      "display_name": "Resource 3"
-    }
+      "url": "https://cs50.harvard.edu/x/2024/",
+      "category": "Tutorials",
+      "display_name": "CS50"
+    },
+    {
+      "url": "https://www.codecademy.com/",
+      "category": "Tutorials",
+      "display_name": "Codecademy"
+    },
+    {
+      "url": "https://www.coursera.org/",
+      "category": "Tutorials",
+      "display_name": "Coursera"
+    },
+    {
+      "url": "https://www.edx.org/",
+      "category": "Tutorials",
+      "display_name": "edX"
+    },
+    {
+      "url": "https://www.udemy.com/",
+      "category": "Tutorials",
+      "display_name": "Udemy"
+    },
+    {
+      "url": "https://www.khanacademy.org/computing",
+      "category": "Tutorials",
+      "display_name": "Khan Academy"
+    },
+    {
+      "url": "https://stackoverflow.com/",
+      "category": "Reference",
+      "display_name": "Stack Overflow"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/",
+      "category": "Reference",
+      "display_name": "GeeksforGeeks"
+    },
+    {
+      "url": "https://www.w3schools.com/",
+      "category": "Reference",
+      "display_name": "W3Schools"
+    },
   ]
 }
