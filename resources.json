@@ -60,5 +60,10 @@
       "category": "Reference",
       "display_name": "W4Schools"
     }
+    {
+      "url": "https://neetcode.io/practice",
+      "category": "Reference",
+      "display_name": "neetcode"
+    }
   ]
 }
