@@ -46,3 +46,14 @@ You can find the list of resources in the `resources.json` file. Each resource i
   "display_name": "FreeCodeCamp"
 }
 ```
+
+## Wall of Fame
+
+Be the change you want to see. contribute a resource to this repo and be shown here
+
+<a href="https://github.com/USFGDSC/Resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=USFGDSC/Resources" />
+</a>
+
+
+
