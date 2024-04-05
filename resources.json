@@ -1,6 +1,11 @@
 {
   "resources": [
     {
+    "url": "https://www.theodinproject.com/",
+    "category": "Tutorials",
+    "display_name": "The Odin Project"    
+    },
+    {
     "url": "https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
     "category": "Tutorials",
     "display_name": "DSA videos"    
