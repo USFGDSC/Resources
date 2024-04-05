@@ -1,6 +1,11 @@
 {
   "resources": [
     {
+    "url": "https://teachyourselfcs.com/",
+    "category": "Tutorials",
+    "display_name": "Teach Yourself CS"    
+    },
+    {
     "url": "https://www.theodinproject.com/",
     "category": "Tutorials",
     "display_name": "The Odin Project"    
