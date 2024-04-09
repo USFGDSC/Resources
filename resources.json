@@ -84,6 +84,11 @@
       "url": "https://roadmap.sh/",
       "category": "Reference",
       "display_name": "The Best Developer Roadmaps"
+    },
+    {
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "category": "Tutorials",
+      "display_name": "Build you own x"
     }
   ]
 }
